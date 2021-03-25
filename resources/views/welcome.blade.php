@@ -11,6 +11,8 @@
         <link href="/docs/4.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
 TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
 crossorigin="anonymous">
+//Cambio realizado por master disabled
+<h1>Cambio del archivo de Bienvenida</h1>
 
 
         <!-- Styles -->
